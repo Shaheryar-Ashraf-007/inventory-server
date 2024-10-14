@@ -8,7 +8,7 @@
     "test": "echo \"Error: No test specified\" && exit 1",
     "dev": "nodemon src/index.js",
     "seed": "node prisma/seed.js",
-    "build": "next build",
+    "build": "npm run dev",
     "start": "node src/index.js"
   },
   "dependencies": {
