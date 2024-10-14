@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "next": "^14.2.15",
+    "nodemon": "^3.1.7"
+  }
+}
